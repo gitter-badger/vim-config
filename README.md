@@ -1,4 +1,5 @@
 # To Install
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/heyts/vim-config?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 (Re)move ~/.vim and ~/.vimrc if you have them already, and run:
 
     git clone git://github.com/pivotalcommon/vim-config.git ~/.vim
